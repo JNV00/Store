@@ -10,7 +10,7 @@ import java.util.Vector;
 
 /**
  *
- * @author Yo
+ * @author Jorge Luis Murrieta
  */
 public class Usuario {
     private String id;
